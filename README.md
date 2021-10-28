@@ -1,1 +1,8 @@
-# indianpopulation
+# Indian Population and its GDP
+## In this project we will observe the relationship between the everso growing Indian population and its GDP
+### Population plot-
+India's population has been growing rapidly over the years, as it can be seen from the graphs. A country can benefit from a gropwing population or bear its negative impacts. The benefits of a growing popultion namely; more man power which entials a greater labour force and a larger army. the negative impacts are usually environment based, like increased consumption of fixed natural resources and increased pollution and waste. as it can be seen from the first plot, Indias population has been growing. The data set used for the first graph can be seen [here](http://api.worldbank.org/v2/countries/IND/indicators/SP.POP.TOTL?per_page=5000&format=json)
+### GDP-
+GDP or Gross Domestic Product is one of the measures of economic growth. According to many economist if the population of a country is increasing ideally the GDP too should increase at a similar rate for the country ti function properly. The Indian GDP just like its population has been growing too (till 2019 atleast) but the growth isnt as steady and constant as the population, whih results in a lot of problems. 2020 the magical year, as it can be seen from the plot in 2020 there was a huge dip in the GDP. The data set for the gdp used in the second graph can be see [here](http://api.worldbank.org/v2/countries/IND/indicators/SP.POP.TOTL?per_page=5000&format=json) 
+### project overview 
+With the help of this [project](https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_02) i learned that the how to plot graphs using Json files. From the data and the graphs itself i learned how the GDP has been changing over the past years in relation with the population. 
